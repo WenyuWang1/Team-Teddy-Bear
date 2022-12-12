@@ -1,4 +1,4 @@
-# Team-Teddy-Bear-
+# Team-Teddy-Bear 🧸
 
 > ## Issues
 > * [x]  [Unable to communicate normally between Pico4ml and QT PY PR2040 #322](https://github.com/ese-detkin-lab/ese5190-2022/issues/322)
